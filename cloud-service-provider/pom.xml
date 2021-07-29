@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>cloud-discovery</artifactId>
+    <artifactId>cloud-service-provider</artifactId>
 
     <dependencies>
         <dependency>
